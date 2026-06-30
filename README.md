@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/hi.gif" width="700" alt="Hello GIF">
+</p>
 
 
 
